@@ -3,7 +3,7 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Siwei Zhou
+### I'm AnHiAo(NIO)
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
@@ -17,7 +17,7 @@
 ### 开源项目
 
 ### 关于我
-- [Blog](https://nioblog.pub)
+- [NIO Blog](https://nioblog.pub)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 

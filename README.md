@@ -17,7 +17,7 @@
 ### 开源项目
 
 ### 关于我
-- [NIO Blog](https://nioblog.pub)
+- [NIO Blog](https://hexo.nioblog.xyz)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 

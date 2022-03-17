@@ -22,6 +22,7 @@
             color: hsla(0, 0%, 100%, .8);
             font-family: "Rubik", monospac-serif;
             font-size: 15px;
+            visibility: hidden;
         }
 
         img {
@@ -81,10 +82,22 @@
             display: inline;
             width: 4%;
         }
+        @media screen and (max-width:900px) {
+            #main{
+                flex-direction: column;
+            }
+            .left-bg{
+                margin: 0 auto;
+            }
+            .right{
+                padding: 3vw 0;
+            }
+        }
     </style>
 </head>
 
 <body>
+    <script>window.onload=function(){document.body.style.visibility="visible"}</script>
     <div id="main">
         <div class="left">
             <div class="left-bg">
